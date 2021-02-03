@@ -6,11 +6,13 @@ def add(a, b):
 def subtract(a, b):
     return (a-b)
 
+<<<<<<< HEAD
 def multiply(a, b):
     return (a*b)
 
 def divide_free(a, b):
     return (a/b)
-
+=======
 def square(a, b):
     return (a**b)
+>>>>>>> 7bb3e7f4454ba4dc168db501100edf8453927063
